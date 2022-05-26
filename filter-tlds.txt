@@ -1,10 +1,10 @@
-! Title: Runet TLDs zones filter
+! Title: [F*ck russia] Runet TLDs filter
 ! Description: Just block them all, there is no truth on any of these websites
 ! Expires: 7 days
 ! Homepage: https://github.com/astappiev/f-russia-list
 ! License: https://github.com/astappiev/f-russia-list/blob/master/LICENSE
 
-! General domains
+! Latin domains
 ||ru^
 ||su^
 ||by^
