@@ -1,4 +1,4 @@
-! Title: [F*ck russia] Propaganda filter
+! Title: [Stop russia] Propaganda filter
 ! Description: All the websites that IT Army of Ukraine published in the telegram channel. We can assume that all of them are related to the state
 ! Expires: 3 days
 ! Homepage: https://github.com/astappiev/f-russia-list

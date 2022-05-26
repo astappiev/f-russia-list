@@ -1,4 +1,4 @@
-! Title: [F*ck russia] Runet TLDs filter
+! Title: [Stop russia] Runet TLDs filter
 ! Description: Just block them all, there is no truth on any of these websites
 ! Expires: 7 days
 ! Homepage: https://github.com/astappiev/f-russia-list

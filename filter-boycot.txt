@@ -1,4 +1,4 @@
-! Title: [F*ck russia] Boycot filter
+! Title: [Stop russia] Boycot filter
 ! Description: Russian & Belarusian IT companies and products to boycott
 ! Expires: 3 days
 ! Homepage: https://github.com/astappiev/f-russia-list

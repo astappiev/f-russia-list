@@ -1,4 +1,4 @@
-! Title: [F*ck russia][WIP] IT ARMY of Ukraine filter
+! Title: [Stop russia][WIP] IT ARMY of Ukraine filter
 ! Description: All the websites that IT Army of Ukraine published in the telegram channel. We can assume that all of them are related to the state or at least have hight impact
 ! Expires: 3 days
 ! Homepage: https://github.com/astappiev/f-russia-list
