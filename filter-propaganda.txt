@@ -8,12 +8,14 @@
 ||bukimevieningi.lt^
 ||musutv.lt^
 ||baltnews.com^
+||baltnews.lt^
 ||sputniknews.lt^
 ||sber.kz^
 ||sberbank.kz^
 
 ! Belarus
 ||024.by^
+||alfaradio.by^
 ||belarus.by^
 ||belarus24.by^
 ||belnovosti.by^
@@ -33,17 +35,22 @@
 ||tvr.by^
 ||tvrmogilev.by^
 ||zarya.by^
+||minsknews.by^
 
 ! Russia
+||1tv.ru^
 ||admoblkaluga.ru^
 ||allpravda.info^
 ||antifashist.com^
+||antifashist.online^
 ||antimaydan.info^
 ||argumenti.ru^
 ||astrobl.ru^
 ||balrad.ru^
+||bel.ru^
 ||buzina.org^
 ||c-inform.info^
+||chechnya.online^
 ||cheladmin.ru^
 ||comitet.su^
 ||cont.ws^
@@ -69,7 +76,6 @@
 ||gorlovka-news.su^
 ||gov.ru^
 ||gtrklnr.com^
-||index.xml^
 ||inforeactor.ru^
 ||infox.sg^
 ||inlugansk.ru^
@@ -79,6 +85,7 @@
 ||katehon.com^
 ||kianews24.ru^
 ||kommersant.ru^
+||kp.ru^
 ||kuban24.tv^
 ||lenta.ru^
 ||life.ru^
@@ -87,6 +94,7 @@
 ||mail.ru^
 ||mediarepost.ru^
 ||metronews.ru^
+||mid.ru^
 ||midural.ru^
 ||mk-kalm.ru^
 ||mkset.ru^
@@ -123,13 +131,17 @@
 ||pravda.ru^
 ||pravdoryb.info^
 ||rambler.ru^
+||rbc.ru^
 ||readmetro.com^
 ||rf-smi.ru^
 ||rg.ru^
+||ria.ru^
 ||riafan.ru^
 ||ritmeurasia.org^
 ||rodina.news^
 ||rossaprimavera.ru^
+||rt.com^
+||rt.ru^
 ||ru-an.info^
 ||rueconomics.ru^
 ||rusnext.ru^
@@ -159,8 +171,10 @@
 ||ulgov.ru^
 ||universe-tss.su^
 ||utro.ru^
+||vaynahavia.com^
 ||vedomosti.ru^
 ||vesti-k.ru^
+||vesti.ru^
 ||vm.ru^
 ||volgograd.ru^
 ||voltairenet.org^
